@@ -1,0 +1,90 @@
+body{
+    background: #F4FCD9;
+}
+
+.judul{
+    position: absolute;
+width: 358px;
+height: 245px;
+left: 200px;
+top: 107px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 82px;
+
+color: #000000;
+}
+
+.pict1 {
+    position: absolute;
+    width: 77px;
+    height: 75px;
+    right: 855px;
+    top: 330px;
+    }
+
+.jenis {
+padding: 11px;
+position: absolute;
+width: 513px;
+height: 35px;
+left: 700px;
+top: 180px;
+border-radius: 5px;
+
+
+}
+
+.jj{
+background: #A78268;
+        border-radius: 30px;
+        color: #000000;
+        padding: 13px 145px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-family:sans-serif;
+       /* font-size:15px;*/
+        margin: center;
+        left: 30px;
+        font-size: 25px;
+
+}
+
+.bingung{
+    position: absolute;
+width: 358px;
+height: 245px;
+left: 275px;
+top: 75;
+}
+
+.button{
+    position: absolute;
+width: 358px;
+height: 245px;
+left: 180px;
+top: 200px;
+}
+
+
+    .pict1 {
+    position: absolute;
+    width: 90px;
+    height: 75px;
+    left: 450px;
+    top: 330px;
+    }
+
+    .pict2 {
+        position: absolute;
+        width: 70px;
+        height: 70px;
+        left: 15px;
+        top: 650px;
+        background-color: #8DC184;
+        border-radius: 50% ;
+        border: 25px solid #A0FF9E;
+    }

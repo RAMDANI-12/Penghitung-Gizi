@@ -1,0 +1,66 @@
+body{
+    background-color: #A2D5AB;
+    
+}
+
+
+/*.teks1{
+    position: absolute;
+width: 800px;
+height: 72px;
+left: 120px;
+top: 150px;
+
+font-family: 'fantasy';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 72px;
+identical to box height 
+
+color: #000000;
+
+}*/
+
+
+
+#sidebar{
+    width: auto;
+    float: none;
+  }
+  
+
+
+
+.hasil{
+    position: absolute;
+width: 384px;
+height: 77px;
+left: 435px;
+top: 690px;
+
+font-family: 'Solway';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+/* .teks2{
+ font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+text-align: center;
+
+
+
+color: #000000;
+background-color: #D2FFC2;;
+
+} */
